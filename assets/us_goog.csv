@@ -1,0 +1,1316 @@
+name,rating,numrev,goog_price,cuisine
+Noodle Pudding,4.3,118,$$, Italian  
+Peter Luger Steak House,4.2,910,$$$$, Steak House 
+Vic's,4.1,43,$$, Mediterranean 
+Gnocco,3.9,72,$$, Pizza 
+Hasaki,4.2,63,$$, Japanese 
+Hearth,4.2,102,$$$, Fine Dining 
+Kanoyama,4.1,88,$$, Japanese 
+Soba-ya,4.1,193,$$, Japanese 
+Da Umberto,4.4,41,$$$, Italian 
+Rocking Horse Cafe,4.0,137,$$, Mexican 
+Paradou,3.4,97,$$$, French 
+Annisa,4.5,88,$$$$, American 
+BONDST,4.2,131,$$$, Japanese 
+Gotham Bar and Grill,4.5,377,$$$$, American 
+Le Gigot,4.4,43,$$, French 
+Lupa,4.2,261,$$$, Italian 
+Pearl Oyster Bar,4.3,136,$$$, Seafood 
+Hangawi,4.3,183,$$$, Korean 
+Phoenix Garden,3.7,51,$$, Chinese 
+IL Cortile,3.9,117,$$$, Italian 
+Dim Sum Go Go,3.7,174,$$, Chinese 
+Peking Duck House,3.8,210,$$, Chinese 
+Thai Son,4.1,121,$$, Vietnamese 
+Babbo Ristorante Enoteca,4.2,487,$$$$, Italian 
+Crispo,4.0,141,$$$, Italian 
+Mary's Fish Camp,4.1,107,$$, Seafood 
+Po,4.2,86,$$$, Italian 
+Sevilla Restaurant & Bar,4.2,87,$$, Spanish 
+MarkJoseph Steakhouse,4.5,90,$$$, Steak House
+Nebraska Steakhouse,4.0,15,$$$, Steak House
+Il Riccio,4.3,15,$$$, Italian 
+JoJo,4.2,106,$$$, French 
+Lusardi's,4.5,35,$$$, Italian 
+Orsay,3.8,75,$$$, French 
+Shanghai Pavilion,3.8,21,$$, Chinese 
+Aureole,4.4,206,$$$$, New American 
+Cafe Boulud,4.4,180,$$$$, French 
+Blue Water Grill,4.1,340,$$$, Seafood 
+Casa Mono,4.2,192,$$$, Spanish 
+Craftbar,3.9,161,$$$, Bar & Grill
+Craft,4.4,183,$$$, Fine Dining 
+Eleven Madison Park,4.6,579,$$$$, Fine Dining 
+i Trulli,4.1,99,$$$, Italian 
+Periyali - Fine Greek Food Manhattan NYC,4.2,55,$$$, Greek 
+Tocqueville,4.5,78,$$$$, French 
+Turkish Kitchen,4.1,131,$$, Turkish 
+Malagueta,4.4,46,$$, Brazilian  
+Trattoria L'incontro,4.4,137,$$$, Italian  
+Tribeca Grill,4.0,293,$$$$, Bar & Grill
+Alcala Restaurant,4.3,27,$$$, Spanish 
+Restaurant Aquavit,4.4,181,$$$$, Scandinavian 
+BLT Steak,4.4,118,$$$$, Steak House
+Lavagna,4.4,70,$$, Italian 
+Momofuku Noodle Bar,4.1,779,$$, Asian 
+Felidia,4.1,120,$$$$, Italian 
+Jubilee,4.0,28,$$$, French 
+La Grenouille,4.5,128,$$$$, French 
+Sushi Yasuda,4.3,335,$$$$, Sushi 
+Aquagrill,4.3,245,$$$, Seafood 
+The Mercer Kitchen,4.0,251,$$$, American 
+Balthazar,4.2,898,$$$, French 
+Giorgione,4.4,36,$$, Italian 
+Le Bernardin,4.6,671,$$$$, Seafood 
+Peter Luger,4.2,911,$$$$, Steak House 
+Gotham Bar and Grill,4.5,377,$$$$, American 
+Babbo,4.2,487,$$$$, Italian 
+Aureole,4.4,206,$$$$, New American 
+Café Boulud,4.4,180,$$$$, French 
+Casa Mono,4.2,192,$$$, Spanish 
+Eleven Madison Park,4.6,579,$$$$, Fine Dining 
+Aquavit,4.4,181,$$$$, Scandinavian 
+Sushi Yasuda,4.3,335,$$$$, Sushi 
+Le Bernardin,4.6,671,$$$$, Seafood 
+Per Se,4.6,506,$$$$, New American 
+Spotted Pig,4.1,922,$$$, British 
+Wallsé,4.4,69,$$$, Austrian 
+Blue Hill,4.5,241,$$$$, American 
+Masa,4.4,6,$$$$, Japanese 
+Gramercy Tavern,4.5,711,$$$$, American 
+Jewel Bako,4.3,73,$$$, Sushi 
+Jean-Georges,4.4,485,$$$$, French 
+Public,4.0,239,$$$$, Eclectic 
+The Modern,4.5,280,$$$$, New American 
+Kyo Ya,4.6,59,$$$$, Japanese 
+Soto,4.1,60,$$$$, Japanese 
+Momofuku Ko,4.5,164,$$$$, American 
+Sushi Azabu,4.5,47,$$$, Sushi 
+Dovetail,4.4,126,$$$$, American 
+Kajitsu,4.4,30,$$$$, Japanese 
+Minetta Tavern,4.2,347,$$$, French 
+Marea,4.5,319,$$$$, Italian 
+Aldea,4.0,88,$$$, Portuguese 
+Chef's Table at Brooklyn Fare,3.6,61,$$$$, French  
+Junoon,4.0,274,$$$, Indian 
+Tulsi,4.2,78,$$$, Indian 
+Ai Fiori,4.4,154,$$$$, Italian 
+Brushstroke,4.5,65,$$$$, Japanese 
+Jungsik,4.4,49,$$$$, Korean 
+Café China,4.4,206,$$, Chinese 
+atera,4.7,43,$$$$, New American 
+Blanca,4.9,14,$$$$, New American  
+Pok Pok Ny,4.3,186,$$, Thai  
+La Vara,4.5,64,$$$, Spanish  
+Casa Enríque,4.6,120,$$, Mexican  
+Caviar Russe,4.3,19,$$$$, New American 
+Andanada,4.2,44,$$$, Spanish 
+Carbone,4.3,84,$$$$, Italian 
+Betony,4.4,61,$$$, New American 
+The Musket Room,4.6,53,$$, New Zealand 
+Uncle Boons,4.5,101,$$, Thai 
+Ichimura,4.8,21,$$$$, Japanese 
+ZZ's Clam Bar,4.3,15,$$$, Seafood 
+Luksus at Tørst,4.6,182,$, Scandinavian  
+Piora,4.7,33,$$$, New American 
+M. Wells Steakhouse,4.3,42,$$$, Steak House 
+Cagen,4.0,8,$$$, Japanese 
+Somtum Der,4.3,97,$$, Thai 
+Hirohisa,4.7,13,$$$, Japanese 
+The River Café,4.2,338,$$$$, American  
+Delaware and Hudson,4.7,38,$$$, American  
+Bâtard,4.3,77,$$$, Modern European 
+Meadowsweet,4.6,39,$$$, New American  
+Semilla,4.5,24,$$$$, American  
+Gabriel Kreuther,4.4,43,$$$, Modern French 
+The Finch,4.2,22,$$$, American  
+Rebelle,4.5,22,$$$, French 
+Tempura Matsui,4.1,10,$$$$, Japanese 
+Daniel,4.5,510,$$$$, French 
+Del Posto,4.4,331,$$$$, Italian 
+Tori Shin,4.4,25,$$$$, Japanese 
+The Breslin,4.2,347,$$$, British 
+Pachanga Patterson,3.9,34,$$, Mexican  
+Maizal,4.0,26,$$, Mexican  
+Colicchio &amp; Sons,4.4,229,$$$, Gastropub
+Brushstroke,4.5,65,$$$$, Japanese 
+Salinas,4.4,82,$$$, Spanish 
+Graffiti,4.3,95,$$$, Asian Fusion 
+Boulud Sud,4.5,97,$$$, Mediterranean 
+Nougatine,4.2,44,$$$, French 
+Liebman's,4.3,60,$, Kosher  
+Anella,4.2,60,$$, American  
+Bread &amp; Tulips,4.1,22,$$, Italian 
+Kunjip,3.3,266,$$, Korean 
+Rucola,4.4,101,$$, Italian  
+Saraghina,4.4,197,$$, Italian  
+Ramen Misoya,4.5,91,$, Ramen 
+Mari Vanna,4.2,137,$$$, Russian 
+Gradisca,4.1,57,$$$, Italian 
+Il Buco Alimentari e Vineria,4.2,96,$$$$, Italian 
+Left Bank,4.3,31,$$$, American 
+Saxon + Parole,4.3,112,$$$, American 
+Tertulia,4.2,85,$$, Spanish 
+Casa Nonna,4.4,93,$$, Italian 
+Chez Napoléon,4.1,43,$$$, French 
+Lan Sheng,3.9,67,$$, Sichuan 
+Miss Korea,4.1,240,$$, Korean Barbecue 
+pizzArte,4.1,130,$$, Italian 
+Tang Pavilion,4.0,61,$$, Chinese 
+Jungsik,4.4,49,$$$$, Korean 
+Tiny's,4.3,79,$$, Bar
+Andaz,4.2,22,$$, 
+Café Mingala,3.7,31,$$, Burmese 
+Fatty Fish,4.2,49,$$, Asian Fusion 
+Elizabeth's Neighborhood Table,4.2,53,$$, American 
+Vai,4.3,38,$$, Mediterranean 
+Battersby,4.4,53,$$$, American  
+Black Swan,3.9,150,$$, American  
+Bozu,4.4,103,$, Sushi  
+Café Steinhof,4.0,103,$$, Austrian  
+Chavela's,4.4,269,$$, Mexican 
+Forcella,4.3,43,$$, Pizza 
+Jolie Cantina,3.9,44,$$,  
+Mill Basin Kosher Delicatessen,3.7,48,$$, Deli 
+Mtskheta Café,4.5,22,$$, Georgian  
+Roebling Tea Room,3.7,150,$$, Tea House 
+The Saint Austere,4.8,32,$$, Wine Bar 
+SoCo,4.1,202,$$, Southern  (US) 
+Samurai Mama,4.4,85,$$, Japanese  
+St. Anselm,4.5,125,$$, Steak House 
+Agnanti,4.3,101,$$, Greek  
+Alobar,4.6,59,$$, New American  
+Co.,4.2,172,$$, Pizza 
+North End Grill,4.5,80,$$$, American 
+Almayass,4.5,65,$$, Mediterranean 
+Anjappar,3.4,87,$$, Indian 
+Acme,3.8,111,$$$, New American 
+Bettolona,4.1,38,$$, Pizza Delivery
+Café China,4.4,206,$$, Chinese 
+Vitae,4.6,40,$$, American 
+Añejo,4.0,107,$$, Mexican 
+Hakkasan,4.1,106,$$$$, Chinese 
+Kristalbelli,4.2,48,$$$, Korean 
+Lugo,4.1,46,$$, Italian 
+atera,4.7,43,$$$$, New American 
+Zutto,4.0,65,$$, Japanese 
+Yefsi,4.6,21,$$$, Greek 
+Caffè Storico,4.3,28,$$$, Italian 
+Allswell,4.2,82,$$, Gastropub 
+Blanca,4.9,14,$$$$, New American  
+Bar Corvo,4.2,51,$$, Italian  
+Gran Eléctrica,4.0,98,$$, Mexican  
+Pok Pok Ny,4.3,186,$$, Thai  
+La Vara,4.5,64,$$$, Spanish  
+M Shanghai,4.2,49,$$, Shanghainese  
+Palo Santo,4.2,69,$$, Pan-Latin 
+Petit Oven,4.6,29,$$$,  
+Talde,4.1,89,$$$, Pan-Asian  
+Casa Enríque,4.6,120,$$, Mexican  
+Piccola Venezia,4.6,50,$$$, Italian  
+Foragers City Table,4.4,73,$$$, American 
+Sauce,3.9,74,$$, Italian 
+Yopparai,4.4,23,$$$, Japanese 
+Enoteca Maria,4.2,61,$$$, Italian  
+Chop-Shop,4.1,39,$$, 
+Land of Plenty,4.0,45,$$, Chinese 
+Reynard,4.1,49,$$$, New American 
+Asian Jewels,4.1,114,$$, Seafood  
+Basil Brick Oven Pizza,4.7,51,$$, Pizza  
+HinoMaru Ramen,4.2,94,$, Soul Food  
+Bo Ky,3.8,72,$, Chinese 
+Shanghai Heping,3.7,51,$$, Chinese 
+Tabaré,4.6,66,$,  
+Corner Social,3.9,131,$$, American 
+Norma's,3.9,190,$$$, Brunch 
+Tavola,4.2,108,$$$, Italian 
+Bistro SK,4.2,14,$$$, French  
+Mexicosina,4.8,35,$$, Mexican  
+A-Wah,3.7,25,$$, Chinese 
+Feast,4.5,384,$$$, American 
+L'Apicio,4.2,36,$$$, Italian 
+Malai Marke,4.3,59,$$, Indian 
+Bhatti,4.1,169,$$, Indian 
+Bocca,4.1,56,$$, Italian 
+Hanjan,4.3,43,$$$, Korean 
+Barraca,4.2,94,$$, Spanish 
+Le Philosophe,4.2,17,$$$, French 
+Murray's Cheese Bar,4.4,108,$$, American 
+Maison Harlem,4.1,74,$$, French 
+Cata,4.0,44,$$, Spanish 
+SakaMai,4.6,44,$$, Japanese 
+Caviar Russe,4.3,19,$$$$, New American 
+Crave Fishbar,4.6,52,$$$, Seafood 
+Obikà,3.9,33,$$, Italian 
+Stella 34,4.1,57,$$$, Italian 
+Ciccio,4.6,29,$$, Italian 
+Cómodo,4.4,30,$$, Latin American 
+Pearl &amp; Ash,4.2,35,$$$, New American 
+Moti Mahal Delux,4.2,58,$$, Indian 
+The Nuaa,4.1,16,$$, Thai 
+Andanada,4.2,44,$$$, Spanish 
+Neerob,4.2,77,$, Bangladeshi  
+Ganso Ramen,4.1,132,$$, Ramen  
+Nightingale 9,4.1,19,$, Asian  
+Prospect,4.7,24,$$$, New American  
+Ramen Yebisu,4.0,71,$, Ramen  
+Runner &amp; Stone,4.5,44,$$, American  
+Zizi Limona,4.7,47,$, Middle Eastern  
+John Brown Smokehouse,4.5,196,$$, Barbecue  
+Zum Stammtisch,4.4,128,$$, German  
+Maysville,4.3,87,$$$, American 
+Cull &amp; Pistol,4.4,62,$$$, Oyster Bar 
+Pastai,4.2,28,$$$, Italian 
+Royal Seafood,3.6,44,$$, Chinese 
+Oda House,4.7,63,$$, Georgian 
+Sushi Dojo,4.2,42,$$, Sushi 
+ABC Cocina,4.2,79,$$$, Nuevo Latino 
+Carbone,4.3,84,$$$$, Italian 
+Lafayette,4.2,141,$$$, French 
+Malaparte,4.5,62,$$, Italian 
+ABV,3.8,34,$$, Bar
+J. Restaurant Chez Asta,4.2,17,$$, African 
+Vinatería,4.3,56,$$$, New American 
+Sake Bar Hagi,4.4,192,$, Japanese 
+Betony,4.4,61,$$$, New American 
+The Musket Room,4.6,53,$$, New Zealand 
+Uncle Boons,4.5,101,$$, Thai 
+Kaia,4.3,44,$$, Wine Bar
+Tanoshi,4.6,46,$$$, Sushi 
+Mayfield,4.4,82,$$, American  
+Mominette,3.8,47,$$, French  
+Nargis Cafe,4.1,244,$$, Middle Eastern  
+River Styx,3.9,30,$$,  
+Xixa,4.5,35,$$, Mexican 
+bún-ker,4.5,78,$$, Vietnamese  
+Happy Family Hotpot,3.9,18,$,  
+Mythos,4.1,19,$$, Greek  
+Ichimura,4.8,21,$$$$, Japanese 
+Charlie Bird,4.2,76,$$, Italian 
+Estela,4.5,74,$$$, New American 
+Il Bacco,4.0,33,$$, Italian  
+Falansai,4.4,27,$, Vietnamese  
+ZZ's Clam Bar,4.3,15,$$$, Seafood 
+Luksus at Tørst,4.6,182,$, Scandinavian  
+Joe &amp; MissesDoe,3.9,51,$, American 
+East 12th Osteria,4.2,17,$$$, Italian 
+Pagani,4.1,36,$$, Italian 
+Armani Ristorante,4.5,17,$$$$, Italian 
+Emilio's Ballato,4.7,54,$$$, Italian 
+Khe-Yo,4.5,58,$$, Laotian 
+Atrium,4.2,88,$$, New American  
+Tong Sam Gyup Goo Yi,4.1,17,$$, Korean  
+Toro,4.2,112,$$, Tapas 
+Narcissa,4.2,88,$$$, American 
+I Sodi,4.6,50,$$$, Italian 
+Piora,4.7,33,$$$, New American 
+Sushi Nakazawa,4.6,103,$$$$, Sushi 
+Barawine,4.1,23,$$, New American 
+The Cecil,3.7,88,$$, American 
+Clement,4.8,9,$$, Bar
+East Pole,4.0,32,$$$, American 
+Aita,4.6,52,$$, Italian 
+Dover,4.2,15,$$$, American  
+M. Wells Steakhouse,4.3,42,$$$, Steak House 
+Cafe Katja,4.7,93,$$, Brunch 
+Contra,4.6,58,$$$$, New American 
+Fung Tu,4.6,26,$$, Chinese 
+Wallflower,4.5,39,$$, French 
+Kang Ho Dong Baekjeong,4.2,160,$$$, Korean Barbecue 
+Cagen,4.0,8,$$$, Japanese 
+Somtum Der,4.3,97,$$, Thai 
+The Gander,4.2,39,$$, American 
+Gallagher's,4.0,256,$$$, Steak House
+Mozzarella &amp; Vino,4.0,30,$$, Italian 
+Hirohisa,4.7,13,$$$, Japanese 
+Ristorante Morini,4.4,39,$$$$, Italian 
+Gladys,4.4,69,$, Caribbean  
+The River Café,4.2,338,$$$$, American  
+Shalom Japan,4.5,41,$$, Jewish  
+Snack EOS,4.2,29,$$, Greek 
+Delaware and Hudson,4.7,38,$$$, American  
+Wasan,4.4,17,$$$, Japanese 
+Gato,4.3,96,$$$, Bar
+Ivan Ramen,3.9,136,$$, Ramen 
+The Simone,4.5,11,$$$, French 
+French Louie,4.5,71,$$, French  
+Bar Primi,4.2,53,$$, Pasta Shop
+The Eddy,4.7,34,$$, New American 
+Flinders Lane,4.5,30,$$, Australian 
+Huertas,4.2,45,$$$, Basque 
+Baker &amp; Co.,4.6,59,$$, Italian 
+Bâtard,4.3,77,$$$, Modern European 
+Racines NY,4.6,29,$$, French 
+Awadh,4.3,48,$$, Indian 
+Colonia Verde,4.7,34,$$, Latin American  
+El Born,4.6,23,$$, Tapas  
+Lucky Luna,3.8,19,$, Mexican  
+Meadowsweet,4.6,39,$$$, New American  
+Pickle Shack,4.4,33,$$, Bar 
+Sushi Katsuei,4.7,52,$$, Sushi  
+Houdini Kitchen Laboratory,4.2,65,$$, American  
+Hatsuhana,4.4,107,$$$, Sushi 
+Root &amp; Bone,4.2,126,$$, Southern  (US)
+The Clocktower,4.6,29,$$$, New American 
+Babbalucci,4.8,37,$$, Italian 
+Chefs Club,4.5,43,$$$, Eclectic 
+Tuome,4.5,31,$$, American 
+Kiin Thai,3.9,48,$, Thai 
+Haldi,4.2,24,$$, Indian 
+Aldo Sohm Wine Bar,4.5,33,$$, Wine Bar
+Faro,4.7,51,$$$, Italian  
+Al Seabu,4.0,13,$, Malaysian  
+Pier A,4.1,199,$$, Seafood 
+Marta,4.3,117,$$, Pizza 
+Houseman,4.2,11,$$$, American  
+Krupa Grocery,4.4,41,$$, American  
+Pippali,4.5,63,$$, Indian 
+Sessanta,4.1,18,$$$, Italian 
+Salt + Charcoal,3.8,33,$$$, Japanese  
+Blenheim,4.2,22,$$, New American 
+Via Carota,4.5,63,$$, Italian 
+Tre Otto,3.6,20,$$, Italian 
+Bocelli,4.3,42,$$, Italian  
+Mario's,4.0,49,$$, Neapolitan  
+cocoron,4.5,68,$$, Japanese 
+Louie and Chan,4.3,39,$$, Italian 
+Il Gattopardo,4.2,39,$$$, Neapolitan 
+Le Fond,4.9,21,$$, French  
+Anassa Taverna,3.7,27,$$$, Greek 
+Kao Soy,4.4,28,$$, Thai  
+Semilla,4.5,24,$$$$, American  
+Au Za'atar,3.8,38,$$, Middle Eastern 
+Bowery Meat Company,4.7,36,$$$, New American 
+Noreetuh,4.6,43,$$, Hawaiian 
+Little Park,4.3,61,$$$, American 
+Dumpling Galaxy,4.2,31,$, Dumpling  
+The Bao,4.3,107,$, Sichuan 
+Donostia,4.4,25,$$, Basque 
+Dirt Candy,4.4,133,$$$, Vegetarian 
+Risotteria Melotti,4.6,37,$$, Italian 
+Virginia's,4.6,19,$$$, American 
+Wassail,4.4,34,$$, Gastropub
+Loi Estiatorio,4.2,93,$$$, Greek 
+Shuko,4.5,20,$$$$, Japanese 
+O Ya,4.8,19,$$$$, Japanese 
+Cosme,4.3,144,$$, Mexican 
+Eugene &amp; Co.,4.6,31,$$, New American  
+Untitled,4.2,58,$$$, American 
+Gabriel Kreuther,4.4,43,$$$, Modern French 
+The Finch,4.3,22,$$$, American  
+Bricolage,4.5,33,$$, Gastropub 
+Park Avenue,4.2,192,$$$, New American 
+Rebelle,4.5,22,$$$, French 
+L'Antagoniste,4.6,23,$$, French  
+Park Asia,3.9,58,$$, Chinese  
+Upland,4.3,106,$$, American 
+Gastroteca,4.2,66,$$, Gastropub 
+Santina,3.9,93,$$$, Italian 
+The Ribbon,4.1,37,$$$, New American 
+Sweet Yummy House,3.6,15,$, Chinese  
+Tempura Matsui,4.1,10,$$$$, Japanese 
+Thai Rock,4.2,65,$$, Thai  
+Balvanera,4.4,35,$$$, Steak House
+Trattoria Romana da Vittorio,4.4,42,$$$, Italian  
+Dirty French,4.1,59,$$$, French 
+Nerai,4.5,48,$$$, Greek 
+Arrogant Swine,4.0,58,$, Barbecue  
+Lupulo,4.0,59,$$$, Portuguese 
+Kang Suh,3.5,81,$$, Korean 
+Hometown Bar-B-Que,4.5,218,$$, Barbecue  
+Okonomi,4.6,103,$, Japanese  
+Cherche Midi,4.0,141,$$, French 
+Streetbird Rotisserie,3.7,90,$, Chicken 
+Patroon,4.0,42,$$$$, New American 
+Sushi Yasaka,4.4,166,$$, Sushi 
+Mu Ramen,4.3,110,$$, Ramen  
+The Black Ant,3.9,48,$$, Mexican 
+Oiji,4.3,36,$$$, Korean 
+Thelma on Clinton,4.1,15,$$, American 
+Kung Fu Little Steamed Buns Ramen,4.1,141,$, Asian Fusion 
+Kitchen 79,4.4,31,$$, Thai  
+Daniel,4.5,510,$$$$, French 
+Mr Chow,3.7,64,$$$, Chinese 
+Petrossian,4.2,90,$$$, French 
+Katz's,4.1,2742,$$, Deli
+Spiga,4.2,36,$$, Italian 
+Frankies 457 Spuntino,4.5,196,$$, Italian  
+Del Posto,4.4,331,$$$$, Italian 
+A Voce Madison,4.1,121,$$$, Italian 
+Blaue Gans,4.2,97,$$$, Austrian 
+Brasserie Ruhlmann,3.8,39,$$$, French 
+El Parador,4.1,67,$$$, Mexican 
+Taboon,4.5,107,$$$, Mediterranean 
+Pacificana,3.7,91,$$, Dim Sum  
+Luzzo's,4.2,173,$$, Pizza 
+Tori Shin,4.4,25,$$$$, Japanese 
+Urubamba,3.6,70,$$, Peruvian  
+Xe Lua,4.3,48,$$, Vietnamese 
+Tipsy Parson,3.9,123,$$, Gastropub
+Pylos,4.5,150,$$$, Greek 
+The Breslin,4.2,347,$$$, British 
+A Casa Fox,4.1,33,$$, 
+Don's Bogam,4.2,109,$$, Korean 
+Soba Totto,4.2,97,$$$, Japanese 
+Madangsui,4.0,85,$$, Korean 
+Oceana,4.3,131,$$$, Seafood 
+Caravaggio,4.1,26,$$$$, Italian 
+Community Food &amp; Juice,3.9,160,$$, American 
+Miranda,4.3,27,$$$, Italian  
+Main Street Imperial Taiwanese Gourmet,4.0,29,$, Taiwanese  
+Laut,4.1,154,$$, Malaysian 
+Print,4.3,73,$$$, New American 
+Jake's Steakhouse,4.2,56,$$$, Steak House 
+Nom Wah Tea Parlor,4.1,273,$$, Tea House
+El Mio Cid,3.6,29,$$, Tapas  
+Sura,3.6,28,$$, Thai 
+Taci's Beyti,4.4,176,$$, Turkish  
+Uncle Zhou,4.1,24,$, Mandarin 
+Lulu &amp; Po,4.2,14,$$, New American  
+Larb Ubol,4.3,82,$, Thai 
+Morgan's BBQ,4.2,143,$, Barbecue  
+Tessa,4.3,36,$$, Mediterranean 
+Navy,4.0,17,$$, Seafood 
+Russ &amp; Daughters Cafe,4.5,162,$$, Jewish 
+Gregory's 26 Corner Taverna,4.4,25,$$, Pub 
+Cafe Jacqueline,4.6,53,$$$, French 
+Anchor Oyster Bar,4.5,172,$$, Seafood 
+Absinthe Brasserie & Bar,4.1,831,$$$, French 
+Jardinière,4.1,413,$$$$, French 
+Thep-phanon,4.0,111,$$, Thai 
+Zuni Café,4.1,1047,$$$, French 
+Angele Restaurant and Bar,4.1,70,$$$, French 
+Cook St. Helena,4.5,35,$$$, Italian 
+Bistro Jeanty,4.5,166,$$$, French 
+Willow Wood Market Cafe,4.2,29,$$, Mediterranean 
+John Ash & Co. Restaurant,3.8,43,$$$, Fine Dining 
+Cafe La Haye,4.6,29,$$$, Cafe
+Della Santina's,4.0,52,$$, Italian 
+Fringale Restaurant,4.3,89,$$$, French 
+Barndiva,4.3,61,$$$, American 
+Wine Spectator Greystone Restaurant,4.2,24,$$$, Italian 
+La Toque,4.4,41,$$$$, French 
+Chez Panisse,4.5,509,$$$$, Californian 
+Tacubaya,4.1,111,$$, Mexican 
+À Côté,4.3,80,$$, Mediterranean 
+Picco Restaurant,4.4,45,$$$, Californian 
+Insalata's,3.9,33,$$, Mediterranean 
+Poggio Trattoria,4.1,109,$$, Italian 
+Sushi Ran,4.5,151,$$$$, Japanese 
+Frantoio Ristorante,3.8,20,$$$, Organic 
+Marche aux Fleurs,4.3,12,$$$, French 
+Farallon Restaurant,4.2,214,$$$$, Seafood 
+A16,4.2,515,$$$, Italian 
+Dragon Well,3.9,50,$$, Chinese 
+Florio Bar & Cafe,3.9,51,$$, Italian 
+Mamacita,4.2,162,$$, Mexican 
+Quince,4.6,160,$$$$, Fine Dining 
+Enoteca Sociale,4.3,60,$$$, Italian  
+Pancho Villa Taqueria,4.2,445,$, Mexican 
+Bar Tartine,4.2,534,$$$, European 
+La Folie,4.3,135,$$$$, Bar
+Oriental Pearl Restaurant,4.1,86,$$$, Chinese 
+Albona Restaurant,4.3,38,$$$, Italian 
+Gary Danko,4.5,890,$$$$, French 
+The House,4.3,296,$$$, Asian 
+Piperade,4.1,80,$$$, Basque 
+The Slanted Door,4.2,783,$$$, Vietnamese 
+Chapeau!,4.5,139,$$$, French 
+Aziza,4.4,187,$$$, Moroccan 
+Khantoke Thai House,3.9,41,$$, Thai 
+Pizzetta,4.5,115,$$, Pizza 
+Manora's Thai Cuisine,4.4,61,$, Thai 
+Yank Sing: Stevenson Street,4.0,358,$$, Chinese 
+Hong Kong Flower Lounge Restaurant,3.7,95,$$, Dim Sum 
+Evvia Estiatorio,4.5,426,$$$, Greek 
+John Bentley's Restaurant,4.5,50,$$$, New American 
+Oliveto Restaurant and Cafe,3.9,124,$$$, Italian 
+Valette,4.6,21,$$$$, Californian 
+Redd,4.4,121,$$$$, New American 
+Mustards Grill,4.4,134,$$$, Bar & Grill
+The French Laundry,4.4,335,$$$$, French 
+Brix Restaurant and Gardens,4.0,81,$$$, New American 
+Bouchon,4.3,252,$$$, French 
+Cole's Chop House,4.3,68,$$$, Steak House
+Celadon,4.3,72,$$$, Eclectic 
+Frascati,4.4,107,$$$, Mediterranean 
+Boon Fly Cafe,4.6,83,$$, Californian 
+Perbacco,4.2,208,$$$, Italian 
+Park Chow,3.9,278,$$, American 
+Salt House,3.9,216,$$$, American 
+Bistro Liaison,3.9,63,$$$, French 
+Dona Tomas,4.1,87,$$, Mexican 
+Wood Tavern,4.6,113,$$, Californian 
+Pasta Moon,4.1,97,$$, Italian 
+Ad Hoc,4.4,192,$$$$, Family 
+The Restaurant at Meadowood,4.8,40,$$$$, Fine Dining 
+Rutherford Grill,4.3,139,$$$, American 
+Cucina Paradiso,4.3,56,$$, Italian 
+LaSalette Restaurant,4.3,67,$$$, Portuguese 
+Monti's Rotisserie & Bar,4.0,35,$$, Mediterranean 
+Willi's Seafood & Raw Bar,4.3,71,$$, Seafood 
+Willi's Wine Bar,4.4,84,$$$, Eclectic 
+Risibisi,4.1,38,$$$, Italian 
+SPQR,4.1,261,$$$$, Italian 
+Epic Roasthouse,4.0,250,$$$, Steak House
+Waterbar,4.3,276,$$$, Seafood 
+Cascal,3.9,993,$$, Nuevo Latino 
+Dio Deka Fine Hellenic Cuisine,4.2,84,$$$, Greek 
+Sushi Sam's Edomata,4.3,199,$$, Japanese 
+Azzurro Pizzeria E Enoteca,4.3,41,$$, Pizza 
+La Taquiza Mexican Grill,3.8,62,$, 
+Harvest Moon Cafe,4.6,30,$$$, Cafe
+Bellanico Restaurant and Wine Bar,4.4,53,$$, Italian  
+Pampas,4.2,295,$$$, Brazilian 
+Corso,4.1,79,$$, Italian 
+Le Garage,4.0,96,$$, French 
+Contigo,4.3,108,$$$, Tapas Bar
+L'Ardoise,4.7,100,$$$, French 
+Chiaro Scuro,4.1,43,$$$, Italian 
+Riva Cucina,4.5,37,$$, Northern Italian 
+Marinitas,4.2,40,$$, Mexican 
+Flea Street,4.4,90,$$$, New American 
+Bottega,4.4,163,$$$, Italian 
+RN74,4.0,148,$$$$, French 
+Brown Sugar Kitchen,4.2,198,$$, Soul Food 
+Hong Kong East Ocean Seafood Restaurant,3.9,103,$$, Chinese 
+Artisan Bistro,4.2,20,$$$, Bistro
+Battambang,4.2,33,$$, Cambodian 
+Grand Avenue Thai Cuisine,4.3,29,$$, Thai 
+Sahn Maru Korean BBQ,4.0,24,$$, 
+Metro Lafayette,3.7,21,$$, Californian 
+Va de Vi,4.5,101,$$, Small Plates 
+Crouching Tiger Restaurant,4.2,91,$$, Chinese 
+54 Mint,4.1,116,$$$, Italian 
+Diavola Pizzeria & Salumeria,4.6,65,$$, Pizza 
+Donato Enoteca,4.3,108,$$, Italian 
+Flour + Water,4.3,415,$$$, Italian 
+Regalito Rosticeria,3.7,65,$$, Mexican 
+The Peasant & The Pear,4.3,71,$$$, Californian 
+La Costanera,4.5,107,$$$, Peruvian 
+Martins West Gastropub,4.4,114,$$$, Gastropub
+Viognier,4.0,67,$$$, French 
+Vung Tau Restaurant,4.2,109,$$, Vietnamese 
+Norman Rose Tavern,4.2,41,$$, Bar
+Jannah,4.3,25,$$, Middle Eastern 
+Piqueo's,4.3,61,$$, Peruvian 
+Cetrella - Half Moon Bay,4.0,43,$$$, Mediterranean 
+Wakuriya,4.6,40,$$$$, Japanese 
+Baume,4.4,70,$$$$, French 
+Farmstead at Long Meadow Ranch,4.6,145,$$$, American 
+Bistro 29,4.0,16,$$, French 
+Bangkok Jam Thai Restaurant,4.0,10,$$, Thai 
+Osteria Stellina,4.2,46,$$$, Italian 
+R'Noh Thai Restaurant,4.6,24,$$, Thai 
+Hachi Ju Hachi,4.5,34,$$, Japanese 
+Sawa Sushi,4.2,34,$$$$, Japanese 
+Sumika,4.3,151,$$, Japanese 
+Thien Long Restaurant,4.3,55,$$, 
+C Casa,3.6,28,$$, Mexican 
+Oenotri,4.4,56,$$$, Italian 
+Sons & Daughters,4.4,54,$$$$, Fine Dining 
+Wayfare Tavern,4.4,322,$$$, American 
+Bistro Aix,4.3,71,$$$, French 
+Saison,4.6,71,$$$$, New American 
+Spoonbar,4.1,36,$$, Californian 
+MICHAEL MINA,4.4,130,$$$$, New American 
+Viva Goa Indian Cuisine,4.3,55,$$, Indian 
+Papito,4.3,78,$$$, Mexican 
+Cotogna,4.3,152,$$$, Italian 
+Bar Agricole,4.1,213,$$$, Bar
+Benu,4.6,101,$$$$, New American 
+Twenty Five Lusk,4.2,149,$$$, American 
+Una Pizza Napoletana,4.2,119,$$, Pizza 
+Zero Zero,4.3,377,$$, Italian 
+Café Colucci,4.4,81,$$, Cafe
+Ippuku,4.5,104,$$, Yakitori 
+Zut!,4.1,40,$$, 
+Ramen Dojo,4.3,248,$, Ramen 
+El Metate Taqueria,4.4,68,$$, Mexican 
+Taste In Mediterranean food,4.4,70,$$, Mediterranean 
+Ristorante Fratello,4.8,23,$$, 
+Orenchi Ramen,4.4,417,$$, Japanese 
+Bui Bistro,3.8,11,$$, 
+Grace's Table,4.2,71,$$, Eclectic 
+LUMA,4.1,14,$$, Italian 
+Sazon Peruvian Cuisine,4.4,40,$$, Peruvian 
+Bar Bocce,4.3,128,$$, Pizza 
+Boon Eat + Drink,4.6,42,$$, Californian 
+Terrapin Creek,4.6,28,$$$, American 
+Helmand Palace,4.3,56,$$, Afghani 
+Kappou Gomi,4.5,32,$$, Japanese 
+Boxing Room,4.0,172,$$, Cajun 
+Locanda,4.4,135,$$$, Italian 
+Piccino,4.3,188,$$, Italian 
+Leopold's,4.5,142,$$, Austrian 
+Z & Y Restaurant,3.9,232,$$, Chinese 
+Tony's Pizza Napoletana,4.4,692,$$, Pizza 
+Boot and Shoe Service,4.3,159,$$, Pizza 
+Shalizaar Restaurant,4.3,123,$$, Persian 
+Peter Lowell's Restaurant,4.0,39,$$, Italian 
+Girl and the Fig Cafe,4.2,36,$$, French 
+KEIKO à Nob Hill,4.8,25,$$$$, French 
+Aangan Indo-Nepalese Cuisine,4.7,41,$$, Indian 
+Naschmarkt Restaurant,4.6,84,$$, Austrian 
+Mateo's Cocina Latina,3.7,23,$$, Mexican 
+State Bird Provisions,4.6,240,$$$$, American 
+Redd Wood,4.4,52,$$$, Pizza 
+Mela Tandoori Kitchen,4.5,52,$$, Indian 
+Gioia Pizzeria,4.2,66,$$, Pizza 
+Copita,4.0,64,$$, Mexican 
+Comal,4.1,125,$$, Mexican 
+Blackwood,4.3,93,$$, American 
+Yuzuki Japanese Eatery,4.3,49,$$, Japanese 
+Cosecha,4.3,48,$, 
+Central Kitchen,4.5,69,$$$, Californian 
+M.Y. China,4.1,128,$$$, Chinese 
+Back A Yard,4.4,163,$$, Caribbean 
+Bravas Bar de Tapas,4.5,47,$$$, Spanish 
+Phnom Penh House,4.5,45,$$, Southeast Asian 
+Goose and Gander,4.4,54,$$$, American 
+Café Lucia,4.1,16,$$, Cafe
+Campo Fina,4.5,42,$$, Italian 
+Glen Ellen Star,4.4,36,$$$, American 
+Rich Table,4.6,91,$$$, 
+Coqueta,4.3,189,$$$, Spanish 
+1601 Bar & Kitchen,4.2,20,$$$, Sri Lankan 
+Miss Ollie's,4.7,33,$$, Caribbean 
+Sir and Star,4.2,16,$$$, Californian 
+Nick's Next Door,4.7,51,$$$, Bistro
+Tribune Tavern,4.1,34,$$$, Gastropub
+The Pear,3.9,34,$$, Southern  (US)
+Chalkboard,4.5,32,$$$, American 
+The Spinster Sisters,4.5,42,$$$, American 
+Duende,4.1,55,$$$, Spanish 
+Tanto Japanese Restaurant,4.2,172,$$, Japanese 
+Lolinda,4.6,65,$$$, Argentinian 
+Mason Pacific,4.4,21,$$, Bistro
+Laciccia,4.5,154,$$$, Italian 
+Brenda's French Soul Food,4.4,614,$$, Soul Food 
+1760,4.3,54,$$$, New American 
+Aliment,4.3,52,$$, Breakfast 
+Stones Throw,4.4,74,$$$, New American 
+Tosca Cafe,4.2,85,$$$, Cafe
+Cholita Linda,4.7,100,$, Latin American 
+Iyasare,4.3,29,$$, Japanese 
+Osmanthus,4.1,26,$$$, Asian 
+Oak & Rye,4.3,91,$$, Pizza 
+Zona Rosa,4.3,43,$$, Mexican 
+New England Lobster Market & Eatery,4.5,144,$$, Seafood 
+Zazu Kitchen + Farm,3.9,50,$$$, American 
+Akiko's,4.2,57,$$, Sushi 
+Kusakabe,4.8,49,$$$$, Japanese 
+ICHI Sushi + NI Bar,4.2,120,$$$, Sushi 
+Maruya,4.3,37,$$$, Japanese 
+Trou Normand,4.0,69,$$$, New American 
+Liquid Bread Gastropub,4.1,53,$$, Gastropub
+Aveline,4.0,16,$$$$, Californian 
+Kin Khao,4.4,119,$$$, Thai 
+alaMar Kitchen & Bar,4.2,28,$$, Seafood 
+Pathos Organic Greek Kitchen,4.7,18,$$$, Ethnic 
+Seaside Metal Oyster Bar,4.0,11,$$, Seafood 
+Michel Bistro,4.5,24,$$, French 
+4505 Burgers & BBQ,4.3,265,$, American 
+Monsieur Benjamin,4.5,75,$$$, French 
+PABU Izakaya,4.4,74,$$$, Japanese 
+Shakewell,4.8,36,$$$, Mediterranean 
+Babushka Russian Deli & Restaurant,4.3,31,$, Russian 
+Aster,4.6,46,$$$$, New American 
+Dragon Beaux Restaurant,4.3,83,$$, Continental 
+Sam's Social Club,4.5,32,$$$, American 
+Trabocco Kitchen and Cocktails,4.4,51,$$, Italian 
+Orexi,4.2,17,$$, Greek 
+Rusty's Southern,4.5,55,$$, Southern  (US)
+Carmel Pizza Company,4.3,74,$, Pizza 
+Tin Vietnamese Cuisine,4.2,128,$$, Vietnamese 
+Octavia,4.5,37,$$$$, New American 
+Californios,4.8,21,$$$$, Mexican 
+Liholiho Yacht Club,4.6,111,$$$, Californian 
+Bradley's Fine Diner,4.2,21,$$$, Californian 
+Walia Ethiopian Cuisine,4.4,141,$$, Ethiopian 
+STEM Kitchen & Garden,4.2,43,$$, Mediterranean 
+Rose Pistola,3.8,92,$$$, Italian 
+Kitchen Istanbul,4.1,84,$$, Turkish 
+Belga,4.0,51,$$$, Belgian 
+Il Casaro,4.7,130,$$, Italian 
+Omakase,4.1,11,$$$$, Japanese 
+Lazy Bear,4.6,64,$$$$, New American 
+Ramen Gaijin,4.6,43,$, Ramen 
+Harvest Table,4.2,12,$$$$, American 
+Prubechu,4.6,28,$$, Asian 
+Dry Creek Kitchen,4.2,53,$$$, Californian 
+Doc Ricketts,4.5,24,$$$, Californian 
+San Tung,4.2,473,$$, Chinese 
+Tadu Ethiopian Kitchen,4.7,72,$, Ethiopian 
+Mourad,4.5,63,$$$$, Moroccan 
+Cindy's Backstreet Kitchen,4.3,68,$$$, Californian 
+Bistro Don Giovanni,4.3,134,$$$, Italian 
+Kokkari Estiatorio,4.5,507,$$$$, Greek 
+One Market Restaurant,4.0,202,$$$, American 
+Zuzu,4.3,85,$$, Spanish 
+Chez TJ,4.1,177,$$$$, French 
+Tamarine,4.2,490,$$$, Vietnamese 
+Plumed Horse,4.4,93,$$$$, Fine Dining 
+The Village Pub,4.4,121,$$$, Bar
+Buckeye Roadhouse,4.4,97,$$$, American 
+Nopa,4.4,793,$$$, New American 
+Bar Crudo,4.3,162,$$, Bar
+Acquerello,4.5,124,$$$$, Italian 
+Esin Restaurant & Bar,4.3,59,$$$, Mediterranean 
+Gather,4.1,230,$$, Californian 
+Atelier Crenn,4.6,83,$$$$, French 
+Parallel 37,4.4,13,$$$$, 
+Padrecito,4.3,95,$, Mexican 
+The Progress,4.6,65,$$$$, Californian 
+Aatxe,4.1,35,$$$, Tapas Bar
+Lord Stanley,4.2,26,$$$$, European 
+Longbranch Saloon,4.3,29,$$, Californian 
+Farmhouse Kitchen,4.5,94,$, Thai 
+Outerlands,4.3,235,$$, American 
+398 Brasserie,3.2,35,$$$$, French 
+Izakaya Rintaro,4.8,56,$$$, Japanese 
+Al's Place,4.6,76,$$, New American  
+Los Cilantros,4.0,12,$, Mexican 
+Cafe Jacqueline,4.6,53,$$$, French 
+Anchor Oyster Bar,4.5,172,$$, Seafood 
+Absinthe Brasserie & Bar,4.1,831,$$$, French 
+Jardinière,4.1,413,$$$$, French 
+Thep-phanon,4.0,111,$$, Thai 
+Zuni Café,4.1,1047,$$$, French 
+Angele Restaurant and Bar,4.1,70,$$$, French 
+Cook St. Helena,4.5,35,$$$, Italian 
+Bistro Jeanty,4.5,166,$$$, French 
+Willow Wood Market Cafe,4.2,29,$$, Mediterranean 
+John Ash & Co. Restaurant,3.8,43,$$$, Fine Dining 
+Cafe La Haye,4.6,29,$$$, Cafe
+Della Santina's,4.0,52,$$, Italian 
+Fringale Restaurant,4.3,89,$$$, French 
+Barndiva,4.3,61,$$$, American 
+Wine Spectator Greystone Restaurant,4.2,24,$$$, Italian 
+La Toque,4.4,41,$$$$, French 
+Chez Panisse,4.5,509,$$$$, Californian 
+Tacubaya,4.1,111,$$, Mexican 
+À Côté,4.3,80,$$, Mediterranean 
+Picco Restaurant,4.4,45,$$$, Californian 
+Insalata's,3.9,33,$$, Mediterranean 
+Poggio Trattoria,4.1,109,$$, Italian 
+Sushi Ran,4.5,151,$$$$, Japanese 
+Frantoio Ristorante,3.8,20,$$$, Organic 
+Marche aux Fleurs,4.3,12,$$$, French 
+Farallon Restaurant,4.2,214,$$$$, Seafood 
+A16,4.2,515,$$$, Italian 
+Dragon Well,3.9,50,$$, Chinese 
+Florio Bar & Cafe,3.9,51,$$, Italian 
+Mamacita,4.2,162,$$, Mexican 
+Quince,4.6,160,$$$$, Fine Dining 
+Enoteca Sociale,4.3,60,$$$, Italian  
+Pancho Villa Taqueria,4.2,445,$, Mexican 
+Bar Tartine,4.2,534,$$$, European 
+La Folie,4.3,135,$$$$, Bar
+Oriental Pearl Restaurant,4.1,86,$$$, Chinese 
+Albona Restaurant,4.3,38,$$$, Italian 
+Gary Danko,4.5,890,$$$$, French 
+The House,4.3,296,$$$, Asian 
+Piperade,4.1,80,$$$, Basque 
+The Slanted Door,4.2,783,$$$, Vietnamese 
+Chapeau!,4.5,139,$$$, French 
+Aziza,4.4,187,$$$, Moroccan 
+Khantoke Thai House,3.9,41,$$, Thai 
+Pizzetta,4.5,115,$$, Pizza 
+Manora's Thai Cuisine,4.4,61,$, Thai 
+Yank Sing: Stevenson Street,4.0,358,$$, Chinese 
+Hong Kong Flower Lounge Restaurant,3.7,95,$$, Dim Sum 
+Evvia Estiatorio,4.5,426,$$$, Greek 
+John Bentley's Restaurant,4.5,50,$$$, New American 
+Oliveto Restaurant and Cafe,3.9,124,$$$, Italian 
+Valette,4.6,21,$$$$, Californian 
+Redd,4.4,121,$$$$, New American 
+Mustards Grill,4.4,134,$$$, Bar & Grill
+The French Laundry,4.4,335,$$$$, French 
+Brix Restaurant and Gardens,4.0,81,$$$, New American 
+Bouchon,4.3,252,$$$, French 
+Cole's Chop House,4.3,68,$$$, Steak House
+Celadon,4.3,72,$$$, Eclectic 
+Frascati,4.4,107,$$$, Mediterranean 
+Boon Fly Cafe,4.6,83,$$, Californian 
+Perbacco,4.2,208,$$$, Italian 
+Park Chow,3.9,278,$$, American 
+Salt House,3.9,216,$$$, American 
+Bistro Liaison,3.9,63,$$$, French 
+Dona Tomas,4.1,87,$$, Mexican 
+Wood Tavern,4.6,113,$$, Californian 
+Pasta Moon,4.1,97,$$, Italian 
+Ad Hoc,4.4,192,$$$$, Family 
+The Restaurant at Meadowood,4.8,40,$$$$, Fine Dining 
+Rutherford Grill,4.3,139,$$$, American 
+Cucina Paradiso,4.3,56,$$, Italian 
+LaSalette Restaurant,4.3,67,$$$, Portuguese 
+Monti's Rotisserie & Bar,4.0,35,$$, Mediterranean 
+Willi's Seafood & Raw Bar,4.3,71,$$, Seafood 
+Willi's Wine Bar,4.4,84,$$$, Eclectic 
+Risibisi,4.1,38,$$$, Italian 
+SPQR,4.1,261,$$$$, Italian 
+Epic Roasthouse,4.0,250,$$$, Steak House
+Waterbar,4.3,276,$$$, Seafood 
+Cascal,3.9,993,$$, Nuevo Latino 
+Dio Deka Fine Hellenic Cuisine,4.2,84,$$$, Greek 
+Sushi Sam's Edomata,4.3,199,$$, Japanese 
+Azzurro Pizzeria E Enoteca,4.3,41,$$, Pizza 
+La Taquiza Mexican Grill,3.8,62,$, 
+Harvest Moon Cafe,4.6,30,$$$, Cafe
+Bellanico Restaurant and Wine Bar,4.4,53,$$, Italian  
+Pampas,4.2,295,$$$, Brazilian 
+Corso,4.1,79,$$, Italian 
+Le Garage,4.0,96,$$, French 
+Contigo,4.3,108,$$$, Tapas Bar
+L'Ardoise,4.7,100,$$$, French 
+Chiaro Scuro,4.1,43,$$$, Italian 
+Riva Cucina,4.5,37,$$, Northern Italian 
+Marinitas,4.2,40,$$, Mexican 
+Flea Street,4.4,90,$$$, New American 
+Bottega,4.4,163,$$$, Italian 
+RN74,4.0,148,$$$$, French 
+Brown Sugar Kitchen,4.2,198,$$, Soul Food 
+Hong Kong East Ocean Seafood Restaurant,3.9,103,$$, Chinese 
+Artisan Bistro,4.2,20,$$$, Bistro
+Battambang,4.2,33,$$, Cambodian 
+Grand Avenue Thai Cuisine,4.3,29,$$, Thai 
+Sahn Maru Korean BBQ,4.0,24,$$, 
+Metro Lafayette,3.7,21,$$, Californian 
+Va de Vi,4.5,101,$$, Small Plates 
+Crouching Tiger Restaurant,4.2,91,$$, Chinese 
+54 Mint,4.1,116,$$$, Italian 
+Diavola Pizzeria & Salumeria,4.6,65,$$, Pizza 
+Donato Enoteca,4.3,108,$$, Italian 
+Flour + Water,4.3,415,$$$, Italian 
+Regalito Rosticeria,3.7,65,$$, Mexican 
+The Peasant & The Pear,4.3,71,$$$, Californian 
+La Costanera,4.5,107,$$$, Peruvian 
+Martins West Gastropub,4.4,114,$$$, Gastropub
+Viognier,4.0,67,$$$, French 
+Vung Tau Restaurant,4.2,109,$$, Vietnamese 
+Norman Rose Tavern,4.2,41,$$, Bar
+Jannah,4.3,25,$$, Middle Eastern 
+Piqueo's,4.3,61,$$, Peruvian 
+Cetrella - Half Moon Bay,4.0,43,$$$, Mediterranean 
+Wakuriya,4.6,40,$$$$, Japanese 
+Baume,4.4,70,$$$$, French 
+Farmstead at Long Meadow Ranch,4.6,145,$$$, American 
+Bistro 29,4.0,16,$$, French 
+Bangkok Jam Thai Restaurant,4.0,10,$$, Thai 
+Osteria Stellina,4.2,46,$$$, Italian 
+R'Noh Thai Restaurant,4.6,24,$$, Thai 
+Hachi Ju Hachi,4.5,34,$$, Japanese 
+Sawa Sushi,4.2,34,$$$$, Japanese 
+Sumika,4.3,151,$$, Japanese 
+Thien Long Restaurant,4.3,55,$$, 
+C Casa,3.6,28,$$, Mexican 
+Oenotri,4.4,56,$$$, Italian 
+Sons & Daughters,4.4,54,$$$$, Fine Dining 
+Wayfare Tavern,4.4,322,$$$, American 
+Bistro Aix,4.3,71,$$$, French 
+Saison,4.6,71,$$$$, New American 
+Spoonbar,4.1,36,$$, Californian 
+MICHAEL MINA,4.4,130,$$$$, New American 
+Viva Goa Indian Cuisine,4.3,55,$$, Indian 
+Papito,4.3,78,$$$, Mexican 
+Cotogna,4.3,152,$$$, Italian 
+Bar Agricole,4.1,213,$$$, Bar
+Benu,4.6,101,$$$$, New American 
+Twenty Five Lusk,4.2,149,$$$, American 
+Una Pizza Napoletana,4.2,119,$$, Pizza 
+Zero Zero,4.3,377,$$, Italian 
+Café Colucci,4.4,81,$$, Cafe
+Ippuku,4.5,104,$$, Yakitori 
+Zut!,4.1,40,$$, 
+Ramen Dojo,4.3,248,$, Ramen 
+El Metate Taqueria,4.4,68,$$, Mexican 
+Taste In Mediterranean food,4.4,70,$$, Mediterranean 
+Ristorante Fratello,4.8,23,$$, 
+Orenchi Ramen,4.4,417,$$, Japanese 
+Bui Bistro,3.8,11,$$, 
+Grace's Table,4.2,71,$$, Eclectic 
+LUMA,4.1,14,$$, Italian 
+Sazon Peruvian Cuisine,4.4,40,$$, Peruvian 
+Bar Bocce,4.3,128,$$, Pizza 
+Boon Eat + Drink,4.6,42,$$, Californian 
+Terrapin Creek,4.6,28,$$$, American 
+Helmand Palace,4.3,56,$$, Afghani 
+Kappou Gomi,4.5,32,$$, Japanese 
+Boxing Room,4.0,172,$$, Cajun 
+Locanda,4.4,135,$$$, Italian 
+Piccino,4.3,188,$$, Italian 
+Leopold's,4.5,142,$$, Austrian 
+Z & Y Restaurant,3.9,232,$$, Chinese 
+Tony's Pizza Napoletana,4.4,692,$$, Pizza 
+Boot and Shoe Service,4.3,159,$$, Pizza 
+Shalizaar Restaurant,4.3,123,$$, Persian 
+Peter Lowell's Restaurant,4.0,39,$$, Italian 
+Girl and the Fig Cafe,4.2,36,$$, French 
+KEIKO à Nob Hill,4.8,25,$$$$, French 
+Aangan Indo-Nepalese Cuisine,4.7,41,$$, Indian 
+Naschmarkt Restaurant,4.6,84,$$, Austrian 
+Mateo's Cocina Latina,3.7,23,$$, Mexican 
+State Bird Provisions,4.6,240,$$$$, American 
+Redd Wood,4.4,52,$$$, Pizza 
+Mela Tandoori Kitchen,4.5,52,$$, Indian 
+Gioia Pizzeria,4.2,66,$$, Pizza 
+Copita,4.0,64,$$, Mexican 
+Comal,4.1,125,$$, Mexican 
+Blackwood,4.3,93,$$, American 
+Yuzuki Japanese Eatery,4.3,49,$$, Japanese 
+Cosecha,4.3,48,$, 
+Central Kitchen,4.5,69,$$$, Californian 
+M.Y. China,4.1,128,$$$, Chinese 
+Back A Yard,4.4,163,$$, Caribbean 
+Bravas Bar de Tapas,4.5,47,$$$, Spanish 
+Phnom Penh House,4.5,45,$$, Southeast Asian 
+Goose and Gander,4.4,54,$$$, American 
+Café Lucia,4.1,16,$$, Cafe
+Campo Fina,4.5,42,$$, Italian 
+Glen Ellen Star,4.4,36,$$$, American 
+Rich Table,4.6,91,$$$, 
+Coqueta,4.3,189,$$$, Spanish 
+1601 Bar & Kitchen,4.2,20,$$$, Sri Lankan 
+Miss Ollie's,4.7,33,$$, Caribbean 
+Sir and Star,4.2,16,$$$, Californian 
+Nick's Next Door,4.7,51,$$$, Bistro
+Tribune Tavern,4.1,34,$$$, Gastropub
+The Pear,3.9,34,$$, Southern  (US)
+Chalkboard,4.5,32,$$$, American 
+The Spinster Sisters,4.5,42,$$$, American 
+Duende,4.1,55,$$$, Spanish 
+Tanto Japanese Restaurant,4.2,172,$$, Japanese 
+Lolinda,4.6,65,$$$, Argentinian 
+Mason Pacific,4.4,21,$$, Bistro
+Laciccia,4.5,154,$$$, Italian 
+Brenda's French Soul Food,4.4,614,$$, Soul Food 
+1760,4.3,54,$$$, New American 
+Aliment,4.3,52,$$, Breakfast 
+Stones Throw,4.4,74,$$$, New American 
+Tosca Cafe,4.2,85,$$$, Cafe
+Cholita Linda,4.7,100,$, Latin American 
+Iyasare,4.3,29,$$, Japanese 
+Osmanthus,4.1,26,$$$, Asian 
+Oak & Rye,4.3,91,$$, Pizza 
+Zona Rosa,4.3,43,$$, Mexican 
+New England Lobster Market & Eatery,4.5,144,$$, Seafood 
+Zazu Kitchen + Farm,3.9,50,$$$, American 
+Akiko's,4.2,57,$$, Sushi 
+Kusakabe,4.8,49,$$$$, Japanese 
+ICHI Sushi + NI Bar,4.2,120,$$$, Sushi 
+Maruya,4.3,37,$$$, Japanese 
+Trou Normand,4.0,69,$$$, New American 
+Liquid Bread Gastropub,4.1,53,$$, Gastropub
+Aveline,4.0,16,$$$$, Californian 
+Kin Khao,4.4,119,$$$, Thai 
+alaMar Kitchen & Bar,4.2,28,$$, Seafood 
+Pathos Organic Greek Kitchen,4.7,18,$$$, Ethnic 
+Seaside Metal Oyster Bar,4.0,11,$$, Seafood 
+Michel Bistro,4.5,24,$$, French 
+4505 Burgers & BBQ,4.3,265,$, American 
+Monsieur Benjamin,4.5,75,$$$, French 
+PABU Izakaya,4.4,74,$$$, Japanese 
+Shakewell,4.8,36,$$$, Mediterranean 
+Babushka Russian Deli & Restaurant,4.3,31,$, Russian 
+Aster,4.6,46,$$$$, New American 
+Dragon Beaux Restaurant,4.3,83,$$, Continental 
+Sam's Social Club,4.5,32,$$$, American 
+Trabocco Kitchen and Cocktails,4.4,51,$$, Italian 
+Orexi,4.2,17,$$, Greek 
+Rusty's Southern,4.5,55,$$, Southern  (US)
+Carmel Pizza Company,4.3,74,$, Pizza 
+Tin Vietnamese Cuisine,4.2,128,$$, Vietnamese 
+Octavia,4.5,37,$$$$, New American 
+Californios,4.8,21,$$$$, Mexican 
+Liholiho Yacht Club,4.6,111,$$$, Californian 
+Bradley's Fine Diner,4.2,21,$$$, Californian 
+Walia Ethiopian Cuisine,4.4,141,$$, Ethiopian 
+STEM Kitchen & Garden,4.2,43,$$, Mediterranean 
+Rose Pistola,3.8,92,$$$, Italian 
+Kitchen Istanbul,4.1,84,$$, Turkish 
+Belga,4.0,51,$$$, Belgian 
+Il Casaro,4.7,130,$$, Italian 
+Omakase,4.1,11,$$$$, Japanese 
+Lazy Bear,4.6,64,$$$$, New American 
+Ramen Gaijin,4.6,43,$, Ramen 
+Harvest Table,4.2,12,$$$$, American 
+Prubechu,4.6,28,$$, Asian 
+Dry Creek Kitchen,4.2,53,$$$, Californian 
+Doc Ricketts,4.5,24,$$$, Californian 
+San Tung,4.2,473,$$, Chinese 
+Tadu Ethiopian Kitchen,4.7,72,$, Ethiopian 
+Mourad,4.5,63,$$$$, Moroccan 
+Cindy's Backstreet Kitchen,4.3,68,$$$, Californian 
+Bistro Don Giovanni,4.3,134,$$$, Italian 
+Kokkari Estiatorio,4.5,507,$$$$, Greek 
+One Market Restaurant,4.0,202,$$$, American 
+Zuzu,4.3,85,$$, Spanish 
+Chez TJ,4.1,177,$$$$, French 
+Tamarine,4.2,490,$$$, Vietnamese 
+Plumed Horse,4.4,93,$$$$, Fine Dining 
+The Village Pub,4.4,121,$$$, Bar
+Buckeye Roadhouse,4.4,97,$$$, American 
+Nopa,4.4,793,$$$, New American 
+Bar Crudo,4.3,162,$$, Bar
+Acquerello,4.5,124,$$$$, Italian 
+Esin Restaurant & Bar,4.3,59,$$$, Mediterranean 
+Gather,4.1,230,$$, Californian 
+Atelier Crenn,4.6,83,$$$$, French 
+Parallel 37,4.4,13,$$$$, 
+Padrecito,4.3,95,$, Mexican 
+The Progress,4.6,65,$$$$, Californian 
+Aatxe,4.1,35,$$$, Tapas Bar
+Lord Stanley,4.2,26,$$$$, European 
+Longbranch Saloon,4.3,29,$$, Californian 
+Farmhouse Kitchen,4.5,94,$, Thai 
+Outerlands,4.3,235,$$, American 
+398 Brasserie,3.2,35,$$$$, French 
+Izakaya Rintaro,4.8,56,$$$, Japanese 
+Al's Place,4.6,76,$$, New American  
+Los Cilantros,4.0,12,$, Mexican 
+Anteprima,4.1,45,$$, Italian 
+Alinea,4.5,435,$$$$, Fine Dining 
+Atwood,4.1,94,$$$, New American 
+Bistro Campagne,4.6,53,$$, French 
+Boka,4.6,96,$$$, American 
+Bourgeois Pig Cafe,4.2,137,$, Sandwich Shop
+Cafe Spiaggia,4.1,9,$$$, Italian 
+Café des Architectes,4.3,47,$$$, French 
+David Burke's Primehouse,3.9,154,$$$, Steak House
+Demera,4.3,131,$$, Ethiopian 
+Eleven City Diner,4.2,331,$$, Diner
+Greek Islands,4.3,311,$$, Greek 
+Green Zebra,4.1,124,$$$, Vegetarian 
+Mindy's Hot Chocolate,4.2,292,$$, Dessert 
+La Petite Folie,4.2,20,$$$, French 
+Lula Cafe,4.5,375,$$, New American 
+Arun's,4.7,26,$$$$, Thai 
+Belly Shack,4.2,128,$$, Asian Fusion 
+Blackbird,4.2,218,$$$, American 
+Le Bouchon,4.1,46,$$, French 
+Lou Mitchell's,4.2,459,$$, Diner
+Mexique,4.6,88,$$$, Mexican 
+NAHA,4.4,91,$$$, New American 
+Pelago,4.2,45,$$$, Italian 
+Phoenix,4.1,126,$$, Chinese 
+RL,4.3,68,$$$, American 
+Sepia,4.3,116,$$$, American 
+Southport Grocery,4.4,109,$$, Cafe
+The Bristol,4.2,106,$$, American 
+The Publican,4.4,497,$$$, American 
+Gene &amp; Georgetti,4.0,144,$$$, Steak House
+Piccolo Sogno,4.3,120,$$$, Italian 
+Vermilion,3.5,69,$$$, Indian 
+Coco Pazzo,4.3,72,$$$, Italian 
+Prosecco,4.4,42,$$$, Italian 
+The Purple Pig,4.4,661,$$, Mediterranean 
+Rosebud Prime,4.2,44,$$$, American 
+Bistrot Zinc,4.2,56,$$, French 
+Smoke Daddy,4.3,280,$$, Barbecue 
+Jaipur,3.8,72,$$, Asian 
+Chilam Balam,4.3,70,$$, Mexican 
+Frasca,4.1,111,$$, Italian 
+Smoque BBQ,4.6,502,$$, Barbecue 
+Viceroy of India,3.6,62,$$, 
+Tuscany on Taylor,4.5,87,$$, Italian 
+Hugo's Frog Bar &amp; Fish House,4.3,118,$$$, Seafood 
+Fiesta Mexicana,3.7,46,$$, Mexican 
+Pho 777,3.8,57,$$, Vietnamese 
+Flo,4.3,93,$$, Mexican 
+Taxim,4.3,34,$$, Greek 
+deca,4.1,20,$$$, New American 
+Longman &amp; Eagle,4.5,391,$$, American 
+Sticky Rice,4.0,91,$$, Thai 
+Twin Anchors,4.5,152,$$, Barbecue 
+La Casa De Samuel,3.7,71,$$, 
+Terzo Piano,3.8,43,$$$, Italian 
+The Gage,4.3,456,$$, American 
+Benny's Chop House,4.4,119,$$$, Steak House
+Sable Kitchen &amp; Bar,4.2,146,$$$, Gastropub
+Sunda,4.3,328,$$, Sushi 
+¡Hello Tacos! De Cero,3.9,124,$$, Mexican 
+Girl &amp; The Goat,4.6,693,$$, New American 
+Merlo on Maple,4.3,38,$$$, Northern Italian 
+Riccardo Trattoria,4.2,32,$$$, Italian 
+Mixteco Grill,4.2,57,$$, Mexican 
+P.S. Bangkok,3.7,32,$, Thai 
+Shokran Moroccan Grill,4.4,58,$$, Moroccan 
+Nana,4.3,138,$$, New American 
+Gilt Bar,4.5,199,$$, Bar
+Big Jones,4.3,114,$$, Southern  (US)
+Ceres' Table,4.3,38,$$$, Italian 
+Han 202,4.3,20,$$, Chinese 
+Big Star,4.3,693,$$, Mexican 
+Coast Sushi Bar,4.3,144,$$, Asian 
+Cumin,4.1,136,$$, Indian 
+Ruxbin,4.7,65,$$$, New American 
+Kuma's Corner,4.4,714,$$, Bar & Grill
+Noon-O-Kabab,4.3,168,$$, Persian 
+Taste of Peru,4.2,90,$$, Peruvian 
+Chez Joël,4.4,40,$$$, French 
+Frances' Deli,4.1,41,$$, Deli
+Frontera Grill,4.3,521,$$, Mexican 
+Avec,4.5,302,$$$, Mediterranean 
+Stax Café,4.2,68,$, Cafe
+Three Aces,4.4,99,$$, Bar
+Chicago q,4.5,196,$$, Barbecue 
+Las Palmas,4.1,76,$$, Mexican 
+Owen &amp; Engine,4.5,152,$$, British 
+Isla,4.3,85,$, Southeast Asian 
+Arami,4.5,65,$$$, Japanese 
+Bistronomic,4.0,43,$$$, Bistro
+Chicago Kalbi,4.2,30,$$, Korean Barbecue 
+Fish Bar,4.1,96,$$, Seafood 
+Del Seoul,4.5,206,$, Korean 
+Chicago Cut,4.0,179,$$$, Steak House
+Hubbard Inn,4.0,95,$$, Brunch 
+Mastro's,4.6,140,$$$, 
+Frontier,4.1,107,$$, American 
+Royal Thai,4.4,47,$$, Thai 
+Gemini Bistro,4.2,39,$$, American 
+Pequod's Pizza,4.3,658,$$, Pizza 
+GT Fish &amp; Oyster,4.4,148,$$$, Seafood 
+Aquitaine,4.0,16,$$, French 
+Perennial Virant,4.2,79,$$$, American 
+Maude's Liquor Bar,4.6,110,$$$, French 
+La Encantada,4.7,19,$, 
+TAC Quick,4.3,86,$$, Thai 
+Fat Willy's,4.2,118,$$, Barbecue 
+Cho Sun Ok,3.9,170,$, Korean 
+Home Bistro,4.2,55,$$, American 
+Union Sushi + Barbeque Bar,4.4,145,$$, Asian 
+Michael Jordan's,4.1,173,$$$, Steak House
+Pump Room,4.2,117,$$, American 
+Greentea,4.7,30,$, Japanese 
+Roka Akor,4.4,110,$$, Japanese Steakhouse
+Vera,4.5,24,$$$, Tapas 
+Goosefoot,4.5,15,$$$, French 
+Acadia,4.6,58,$$$, American 
+Cai,3.8,62,$$, Chinese 
+Yusho,4.2,74,$$, Japanese 
+Balena,4.6,81,$$, Italian 
+RPM,4.4,250,$$, Italian 
+Sixteen,4.1,63,$$$$, Fine Dining 
+Slurping Turtle,4.2,195,$$, Ramen 
+Au Cheval,4.6,524,$$, American 
+Grange Hall Burger Bar,4.5,138,$$, Hamburger 
+Nellcôte,4.3,92,$$, American 
+Ada St.,4.7,60,$$, Bar
+Antique Taco,4.5,215,$, Taco 
+Briciola,4.8,30,$$, Italian 
+Red Door,4.3,56,$$, Eclectic 
+Trenchermen,4.5,79,$$, American 
+Yuzu,4.7,114,$, Japanese 
+Bread &amp; Wine,4.5,37,$$, New American 
+Bakin' &amp; Eggs,4.3,108,$$, Breakfast 
+Wood,4.2,60,$$, New American 
+Pizzeria da Nella,4.4,42,$$, Pizza 
+EL Ideas,4.6,40,$$$$, American 
+The Piggery,4.0,79,$, Hamburger 
+gather,4.6,70,$$, American 
+Vincent,4.6,29,$$, Bistro
+Takito Kitchen,4.2,48,$, Mexican 
+Elizabeth,4.7,27,$$$, American 
+ATK,4.4,51,$, Thai 
+Milt's Barbecue for the Perplexed,4.3,71,$$, Barbecue 
+Rickshaw Republic,4.4,50,$, Indonesian 
+Pl-zeň,4.6,59,$$, Gastropub
+Bub City,4.0,175,$$, Barbecue 
+The Lobby,4.1,20,$$$, American 
+bellyQ,4.3,108,$$, Asian 
+Embeya,4.5,44,$$$, Thai 
+Grace,4.6,41,$$$$, New American 
+Fat Rice,4.5,79,$$, Southeast Asian 
+Parson's Chicken &amp; Fish,4.3,205,$, Chicken 
+"Table, Donkey and Stick",4.4,66,$$, Eclectic 
+Bar Pastoral,4.4,21,$, American 
+The Boarding House,4.3,52,$$$, New American 
+Brindille,4.3,12,$$$$, French 
+Siena Tavern,4.4,195,$$, Italian 
+Sumi Robata Bar,4.5,29,$$$, Japanese 
+Sushi Dokku,4.4,50,$$$, Japanese 
+Mott St.,4.5,42,$$, Asian 
+Beatrix,4.4,193,$$, American 
+Tre Soldi,4.2,53,$$, Italian 
+La Sirena Clandestina,4.3,57,$$, Brazilian 
+County,4.3,73,$, Barbecue 
+NEXT,4.8,73,$$$$, Eclectic 
+The Dawson,4.2,86,$$, Traditional American 
+Nico Osteria,4.3,64,$$$, Italian 
+Dusek's (Board &amp; Beer),4.4,116,$$$, Bar
+A10,3.9,54,$$, Italian 
+42 Grams,4.8,12,$$$$, American 
+TWO,4.6,42,$$, New American 
+Fulton Market Kitchen,4.1,37,$$$, American 
+Osteria Langhe,4.4,20,$$, Italian 
+Parachute,4.1,45,$$, Korean 
+The Radler,4.2,77,$$, German 
+Summer House Santa Monica,4.0,117,$$, American 
+Bottlefork,4.2,53,$$, Bar & Grill
+Celeste,4.0,45,$$, American 
+Ramen-san,4.1,174,$$, Ramen 
+Oak + Char,4.5,26,$$, American 
+Salero,4.5,24,$$, Spanish 
+RPM Steak,4.4,101,$$$, Steak House
+High Five Ramen,4.6,66,$, Ramen 
+ampersand wine bar,4.1,7,$$, New American 
+Via Lima,4.0,18,$$, Peruvian 
+Ixcateco Grill,4.5,16,$$$, Mexican 
+The Blanchard,4.3,12,$$$, French 
+Remington's,4.4,45,$$$, American 
+NoMI Kitchen,4.5,121,$$$, American 
+C Chicago,4.1,24,$$$, Seafood 
+Miku Sushi,4.3,33,$$, Japanese 
+White Oak Tavern &amp; Inn,4.0,12,$$, American 
+The Angry Crab,4.3,180,$$, Seafood 
+Dove's Luncheonette,4.5,83,$$, Diner
+Community Tavern,4.6,27,$$$, Steak House
+mfk.,4.5,26,$$, Seafood 
+Acanto,4.3,26,$$, Cocktail Bar
+Bascule Wine Bar,4.5,5,$$, Wine Bar
+Cochon Volant,4.1,74,$$$, French 
+The Kitchen,4.5,49,$$, American 
+Momotaro,4.5,83,$$$, Japanese 
+Honky Tonk BBQ,4.3,166,$, Barbecue 
+Side Door,4.3,34,$$, Gastropub
+Pearl's Southern Comfort,4.4,43,$$, Southern  (US)
+de Quay,4.5,14,$$, Dutch 
+Prime &amp; Provisions,4.3,50,$$$$, Steak House
+Bohemian House,4.6,70,$$, European 
+Friendship,3.7,75,$$, Chinese 
+Dolce,3.9,16,$$$, Italian 
+Arya Bhavan,2.7,45,$$, Indian 
+Izakaya Mita,4.5,27,$$, Japanese 
+Taus Authentic,4.2,14,$$$, New American 
+Juno,4.8,19,$$$, Sushi 
+Luella's Southern Kitchen,4.3,76,$, Southern  (US)
+La Plena,4.3,28,$, Puerto Rican 
+The Franklin Room,4.8,56,$$, American 
+The Promontory,4.2,142,$$$, American 
+Rural Society,4.2,14,$$$, Argentinian 
+Les Nomades,4.5,31,$$$$, French 
+Mana Food Bar,4.5,113,$$, Vegetarian 
+Mercat a la Planxa,4.0,162,$$$, Spanish 
+mk,4.5,88,$$$, New American 
+Paramount Room,4.1,70,$$, Bar
+Pho Xe Tang - Tank Noodle,4.2,248,$$, Vietnamese 
+Ras Dashen,4.2,94,$$, Ethiopian 
+Riva,3.6,102,$$$, Seafood 
+The Rosebud,4.4,130,$$, Italian 
+Schwa,4.6,51,$$$$, New American 
+Spacca Napoli,4.6,196,$$, Pizza 
+Topolobampo,4.3,155,$$$, Mexican 
+Tru,4.4,91,$$$$, French 
+North Pond,4.4,66,$$$, American 
+Everest,4.3,80,$$$$, French 
+La Sardine,4.5,40,$$, French 
+Spiaggia,4.3,104,$$$$, Italian 
+Mon Ami Gabi,4.4,69,$$, French 
+Paprika,3.6,23,$$, Vegetarian 
+Bavette's Bar &amp; Boeuf,4.6,128,$$$, Steak House
+Tortoise Club,4.1,41,$$$, American 
+Travelle,4.2,18,$$$, American 
+Staropolska,4.6,87,$$, Polish 
+Charlatan,4.2,29,$$, Italian 
+The Duck Inn,4.2,44,$$, American 

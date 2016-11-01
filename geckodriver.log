@@ -1,0 +1,9 @@
+1476236369240	geckodriver	INFO	Listening on 127.0.0.1:57574
+1476236370218	mozprofile::profile	INFO	Using profile path /var/folders/68/169hc0210gs6pg9swp85j9n00000gn/T/rust_mozprofile.etvAqI5aClfh
+1476236370219	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox
+1476236370224	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57596
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1476236371044	Marionette	INFO	Listening on port 57596
+1476236372356	Marionette	INFO	startBrowser 2017481f-816c-d24d-b0fe-6b702badcee5
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.en.r7CmS4rtNkw.O/m=aspn,crd,sy9,sy283,sy319,sy5,sy11,sy55,sy320,sy321,sy28,sy322,dvl,sy300,sy312,imap,sy58,sy59,sy118,em10,vs,sy86,sy87,sy89,sy91,sy82,sy84,sy88,sy92,sy79,sy85,sy90,sy93,sy80,tnv,me,sy46,sy159,sy41,sy158,sy160,sy150,sy203,sy204,sy208,sy202,sy230,sy205,sy209,sy207,sy78,sy231,sy206,sy210,sy229,sy47,sy371,sy40,sy211,sy220,sy232,sy233,sy239,em7,em8,sy45,sy48,sy163,sy266,sy310,sy517,sy518,sy519,sy520,lor,sy197,oh,eil,sy365,d3l,sy258,sy254,sy342,sy356,sy259,sy346,sy357,sy582,dpu,sy521,lorw,sy156,sy301,sy222,sy302,sy292,sy309,sy338,lii,sy107,sy108,atn/am=AIGSZmEB4v8hINxCOIJUgIFB/rt=j/d=0/t=zcms/rs=ACT90oHTiHoVzLm3QKnjwaAdIIEMbV6GDg, line 477: TypeError: a is null
